@@ -1,0 +1,83 @@
+Day-01[19-09-2022]:
+===================
+	Good Morning to All..
+
+	Python installation Check:
+	==========================
+		> cmd
+		> python -V
+
+	Python Download:
+	================
+		> browser
+		> naviagte to "python.org"
+		> place cursor on "Downloads"
+		> select "Operating system" and click on it
+		> after selecting then it displays two columns they are
+			=> stable release and => [No errors]
+			=> pre release => [Development]
+		> In Stable release it displays 4 options such as
+			=> help file
+			=> x86-64 embedded zip file
+			=> x86-64 executeable installer
+			=> x86-64 web based installer
+			=> x86 embedded zip file
+			=> x86 executeable file
+			=> x86 web based installer
+		> Select "executeable installer" file based on the system type either 64 or 32 bit file. If it is 64 bit then we need to click on "x86-64 executeable installer" if it is 32 we need to select "x86 executeable installer".
+		> Click on the file to download.
+
+	Python Installation:
+	====================
+		> After downloading the file double click on file it will displays the dialogue to accept for installation. Click on "yes" to proceed
+		> It will displays 2 options and 2 checkboxes they are
+			2 options:
+			==========
+			> Install Now [Default path]
+			> Customize Installation [User selected location]
+
+			2 Checkboxes:
+			=============
+			> All users permissions
+			> Add Python path
+		> Select 2 checkboxes and "Install Now" for default path to set in environment variables then click on "Next" to install the python
+		> After displaying the dialogue as "Successfully Installed" then click on "finish" to exit the installation process
+
+	Pip:
+	====
+		To install third party packages we need to use pip command
+		Syntax:
+		=======
+			pip install "packagename"
+
+	Pip Version Check:
+	==================
+		> cmd
+		> pip -V
+		> If you are using windows 64 bit then we need to install the pip.
+			installation of pip:
+			====================
+			> cmd
+			> python -m pip install pip==22.2[version]
+		> pip installation check in windows
+			> cmd
+			> python -m pip --version
+
+	Web Development Using Django:
+	=============================
+
+	Django Installation in Windows 64 bit:
+	=====================================
+		> cmd
+		> python -m pip install django==3.0
+		> If it displays warning to upgrade pip then we need to type the command such as
+			> python -m pip install --upgrade pip
+	
+	Django Installation Check:
+	==========================
+		> cmd
+		> python -m django-admin --version [for windows 64]
+		> django-admin --version [for other updated os]
+
+	
+
