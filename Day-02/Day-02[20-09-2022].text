@@ -1,0 +1,60 @@
+Day-02[20-09-2022]:
+===================
+	Good Morning to All..
+
+	Jupyter Notebook:
+	=================
+		> cmd
+		> python -m pip install jupyter notebook
+		> jupyter notebook
+
+	Python Functions:
+	=================
+		Functions:
+		==========
+			- with returntype and with arguments 
+			- with returntype and without arguments
+			- without returntype and with arguments
+			- without returntype and without arguments
+
+		Argument Types:
+		===============
+			- Default 
+			- Keyword
+			- Required or positional
+			- Variable Length
+
+	Web Development using Django
+	============================
+
+	Project Creation:
+	=================
+		> cmd
+		> django-admin startproject "projectname"
+		> It creates a folder as "projectname"
+		> Projectname
+			> projectname [Admin App]
+			> manage.py [Main Service File]
+
+	Admin App Files:
+	================
+		- init => It will be considered as a python file 
+		- asgi => asynchronous gate way interface
+		- wsgi => web server gate way interface
+		- settings => for all configurations we need to configure in this file such as mail,images,templates,css,javascript,jquery,audio and video etc.,
+		- urls => to check whether the url name exists in a url file or not. If exists it works on the action if not it displays the error.
+
+	Project Running:
+	================
+		> Open the command prompt where manage.py file exists
+		> To run a server we need to pass the command such as
+			> manage.py runserver
+				or
+			> python manage.py runserver
+		> Open the address link in browser such as
+			http://127.0.0.1:8000
+				or
+			http://localhost:8000
+			Here instead of local ip address[127.0.0.1] we can use localhost and 8000 is the default port number
+
+
