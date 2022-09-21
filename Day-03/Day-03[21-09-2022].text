@@ -1,0 +1,40 @@
+Day-03[21-09-2022]:
+===================
+	Good Morning to All..
+
+	Data Structures:
+	================
+		- list
+		- tuple
+		- set
+		- string
+		- dictionary
+
+	Packages and Modules:
+	=====================
+		Package => Folder
+			group of modules [.py files]
+		Module => .py files
+			variable
+			function
+			class
+			methods
+
+	Acessing of variable:
+	=====================
+		from packagename import module
+		module.variablename
+
+		from packagename.module import variablename
+		variablename
+
+		from packagename import module
+		module.functionname
+
+		from packagename.module import functionname
+		functionname
+
+	path:
+	=====
+		path('urlname',module.functionname,name="urlforaccess")
+	
