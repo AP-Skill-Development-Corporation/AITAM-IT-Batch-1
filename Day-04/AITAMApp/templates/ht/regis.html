@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Page</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/demo.css' %}">
+	<script type="text/javascript" src="{% static 'js/sample.js' %}"></script>
+</head>
+<body>
+	<h3>Registration</h3>
+	<form>
+		<label>Username</label>
+		<input type="text" name=""><br/>
+		<label>Password</label>
+		<input type="password" name=""><br/>
+		<label>Email</label>
+		<input type="email" name=""><br/>
+		<input type="reset" value="Reset">
+		<input type="submit" value="Create">
+	</form>
+</body>
+</html>

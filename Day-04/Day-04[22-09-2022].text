@@ -1,0 +1,16 @@
+Day-04[22-09-2022]:
+===================
+	Good Morning to All...
+
+	HttpResponse with html tag
+	HttpResponse with html tag and css
+	rendering with template file
+
+	render:
+	=======
+		syntax:
+			render(selfparameter,'.html file location',dictionary)
+
+	Django Templates		
+	Temporary styling in browser
+	Static File handling [css,js]
