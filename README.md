@@ -23,3 +23,9 @@ Information Technology Batch-1 Python,Django
   - HttpResponse with html file
   - Django Templates
   - Static File Handling
+
+## Day-05(23-09-2022):
+  - Data rendering from controller to templates and templates to controller and then controller to another template file
+  - Bootstrap4 Introduction
+  - Model Creation, Makemigrations and Migrate
+  - ORM Queries, Creation ORM Queries
