@@ -1,0 +1,26 @@
+h3
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 5px;
+	background-color: darkgrey;
+	text-align: center;
+	color: white;
+	border:1px solid green;
+	border-radius: 5px 15px 15px 5px;
+}
+
+form
+{
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 5px;
+	background-color: cadetblue;
+	border:1px solid red;
+	border-radius:15px;
+	height:170px;
+}
+input
+{
+	margin:10px; 
+}
