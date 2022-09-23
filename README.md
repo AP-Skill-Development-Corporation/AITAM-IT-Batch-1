@@ -28,4 +28,4 @@ Information Technology Batch-1 Python,Django
   - Data rendering from controller to templates and templates to controller and then controller to another template file
   - Bootstrap4 Introduction
   - Model Creation, Makemigrations and Migrate
-  - ORM Queries, Creation ORM Queries
+  - ORM Queries, Creation of ORM Queries
