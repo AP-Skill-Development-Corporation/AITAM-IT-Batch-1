@@ -29,3 +29,10 @@ Information Technology Batch-1 Python,Django
   - Bootstrap4 Introduction
   - Model Creation, Makemigrations and Migrate
   - ORM Queries, Creation of ORM Queries
+
+## Day-06(24-09-2022):
+  - Reading,Updation and Deletion of ORM Queries
+  - Form Creation, Existing model and form access
+  - Form Validations
+  - User Registration and Authentication
+  - Messages Concept
